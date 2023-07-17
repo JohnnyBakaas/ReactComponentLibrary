@@ -1,0 +1,10 @@
+:root {
+  --font-color: rgb(255, 255, 255);
+  --card-background-color: #00000047;
+  --card-border-color: #5d5d5d;
+  --card-border-hover-color: #ffffff;
+}
+
+* {
+  font-family: "Chivo", sans-serif;
+}
